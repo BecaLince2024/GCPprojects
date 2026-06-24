@@ -1,0 +1,7 @@
+config {
+  type: "view",
+  schema: "test_ds_model2"
+}
+
+SELECT 'bbcita 1' as name,
+       'bbcita prime 2' as name2
